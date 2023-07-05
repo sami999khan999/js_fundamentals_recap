@@ -568,4 +568,4 @@
 // }
 // console.log(primeNUmber(11));
 
-// console.log(2)
+// console.log(2);
